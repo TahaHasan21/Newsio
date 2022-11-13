@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "367055178630",
+    "project_id": "authentication-c05af",
+    "storage_bucket": "authentication-c05af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367055178630:android:478292afa29dd833097a07",
+        "android_client_info": {
+          "package_name": "com.example.newsio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367055178630-7c2vn9aull27oermth4g4jqvrm3mleho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIZi6GLxyGeXfUFIgJklK6fneaV_J_RXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367055178630-7c2vn9aull27oermth4g4jqvrm3mleho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
